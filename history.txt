@@ -1,0 +1,251 @@
+    1  python --version
+    2  sudo apt install python3.7
+    3  sudo apt update
+    4  sudo apt install software-properties-common
+    5  sudo add-apt-repository ppa:deadsnakes/ppa
+    6  sudo apt install python3.7
+    7  sudo apt install mysql-server
+    8  sudo dnf install git-all
+    9  sudo apt install git
+   10  sudo apt install vim
+   11  sudo mysql_secure_installation
+   12  mysql -u root -p
+   13  mysql -u root 
+   14  mysql
+   15  sudo mysql
+   16  git clone https://github.com/nikhilanil2646/LM-karting.git
+   17  ll
+   18  cd LM-karting/
+   19  cd Nw
+   20  cd NEW\ AMZ/
+   21  ls
+   22  pip install flask
+   23  pip3 install flask
+   24  sudo apt install python3-pip
+   25  mysql
+   26  mysql -u root
+   27  mysql -u root -p
+   28  mysql -p 
+   29  mysql 
+   30  mysql
+   31  sudo mysql
+   32  mysql -u root -p
+   33  pip install flask
+   34  pip3 install flask
+   35  pip3 install mysql-client
+   36  python3
+   37  python3 main.py 
+   38  apt-get install python-mysqldb
+   39  sudo apt-get install python-mysqldb
+   40  pip install mysqlclient
+   41  pip3 install mysqlclient
+   42  s
+   43  apt-get install python-dev
+   44  sudo apt-get install python-dev
+   45  pip3 install mysql-python
+   46  sudo apt-get install libmysqlclient-dev
+   47  sudo python3 -m pip install mysql-connector
+   48  pip3 install mysql-python
+   49  cd LM-karting/NEW\ AMZ/
+   50  python3 main.py 
+   51  pip install configparser
+   52  pip3 install configparser
+   53  sudo cp /usr/lib/python3.7/configparser.py /usr/lib/python3.7/ConfigParser.py
+   54  pip3 install mysql-python
+   55  pip3 
+   56  pip3 --version
+   57  sudo cp /usr/lib/python3.8/configparser.py /usr/lib/python3.8/ConfigParser.py
+   58  pip3 install mysql-python
+   59  sudo apt-get install -y python3 python3-dev
+   60  sudo apt-get install -y python-pip
+   61  sudo apt-get install -y libssl-dev libffi-dev
+   62  sudo apt-get install -y libxml2-dev libxslt1-dev
+   63  sudo pip install virtualenvwrapper
+   64  source /usr/local/bin/virtualenvwrapper.sh
+   65  sudo pip3 install virtualenvwrapper
+   66  source /usr/local/bin/virtualenvwrapper.sh
+   67  mkvirtualenv -p python3 scrapy.py3
+   68  pip install scrapy
+   69  pip install mysql-python
+   70  pip3 install mysql-python
+   71  exit
+   72  ifconfig
+   73  ipconfig
+   74  ifconfig
+   75  sudo apt install net-tools
+   76  ifconfig
+   77  cd LM-karting/NEW\ AMZ/
+   78  python3 main.py 
+   79  3.138.196.137
+   80  sudo apt-get install apache2
+   81  sudo apt-get install libapache2-mod-wsgi
+   82  sudo ln -sT ~/LM-karting/NEW\ AMZ/ /var/www/html/flaskapp
+   83  mv main.py flaskapp.py
+   84  touch flaskapp.wsgi
+   85  vim flaskapp.wsgi 
+   86  vim /etc/apache2/sites-enabled/000-default.conf
+   87  sudo vim /etc/apache2/sites-enabled/000-default.conf
+   88  sudo service apache2 restart
+   89  cd /var/log/apache2/
+   90  ll
+   91  cat error.log 
+   92  python --version
+   93  ln -sf /usr/bin/python /usr/local/bin/python3.8
+   94  python --version
+   95  sudo ln -sf /usr/bin/python /usr/local/bin/python3.8
+   96  python --version
+   97  python
+   98  sudo update-alternatives  --set python /usr/bin/python3.8
+   99  sudo update-alternatives --config python
+  100  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8
+  101  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
+  102  sudo update-alternatives --config python
+  103  python --version
+  104  sudo service apache2 restart
+  105  curl localhost
+  106  cd LM-karting/
+  107  cd NEW\ AMZ/
+  108  ls
+  109  cat /var/log/apache2/error.log 
+  110  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.7 1
+  111  sudo update-alternatives --config python
+  112  sudo service apache2 restart
+  113  cat /var/log/apache2/error.log 
+  114  sudo apt-get -y install libapache2-mod-wsgi-py3
+  115  sudo service apache2 restart
+  116  cat /var/log/apache2/error.log 
+  117  sudo service apache2 restart
+  118  cat /var/log/apache2/error.log 
+  119  python --version
+  120  python3.8
+  121  python38
+  122  sudo update-alternatives --config python
+  123  python --version
+  124  python
+  125  sudo service apache2 restart
+  126  cat /var/log/apache2/error.log 
+  127  ls
+  128  vim flaskapp.py 
+  129  history
+  130  vim flaskapp.py 
+  131  sudo service apache2 restart
+  132  cat /var/log/apache2/error.log 
+  133  vim flaskapp.py 
+  134  sudo service apache2 restart
+  135  cat /var/log/apache2/error.log 
+  136  vim flaskapp.py 
+  137  sudo service apache2 restart
+  138  cat /var/log/apache2/error.log 
+  139  vim flaskapp.py 
+  140  python3.7
+  141  vim flaskapp.py 
+  142  sudo service apache2 restart
+  143  cat /var/log/apache2/error.log 
+  144  vim flaskapp.py 
+  145  sudo service apache2 restart
+  146  cat /var/log/apache2/error.log 
+  147  cd LM-karting/NEW\ AMZ/
+  148  python --version
+  149  python flaskapp.py 
+  150  python3.8 flaskapp.py 
+  151  exit
+  152  cd LM-karting/
+  153  cd NEW\ AMZ/
+  154  python
+  155  setenforce 0
+  156  sudo vim /etc/selinux/confi
+  157  sudo vim /etc/selinux/config
+  158  sudo vim /etc/selinux/semanage.conf 
+  159  getenforce
+  160  cat /var/log/apache2/error.log 
+  161  ll
+  162  cd LM-karting/
+  163  ll
+  164  cd NEW\ AMZ/
+  165  curl localhost
+  166  cat /var/log/apache2/error.log \
+  167  cat /var/log/apache2/error.log 
+  168  history
+  169  sudo vim /etc/apache2/sites-enabled/000-default.conf 
+  170  python3.8
+  171  sudo service apache2 restart
+  172  journalctl -xe
+  173  whereis python
+  174  whereis python3.8
+  175  /usr/bin/python3.8
+  176  sudo vim /etc/apache2/sites-enabled/000-default.conf 
+  177  sudo service apache2 restart
+  178  journalctl -xe
+  179  sudo vim /etc/apache2/sites-enabled/000-default.conf 
+  180  sudo service apache2 restart
+  181  curl localhost
+  182  cat /var/log/apache2/error.log 
+  183  sudo apt-get update
+  184  sudo apt-get install nginx
+  185  sudo apt-get install gunicorn3
+  186  sudo apt-get update
+  187  sudo apt-get install gunicorn3
+  188  pip3 install gunicorn3
+  189  pip3 install gunicorn
+  190  ll
+  191  python3.8 flaskapp.py 
+  192  vim flaskapp.py 
+  193  python3.8 flaskapp.py 
+  194  cd /etc/nginx/sites-enabled/
+  195  sudo vim flaskapp
+  196  sudo service nginx
+  197  sudo service nginx restart
+  198  journalctl -xe
+  199  sudo service apache stop
+  200  sudo service apache2 stop
+  201  sudo service nginx restart
+  202  cd 
+  203  cd LM-karting/NEW\ AMZ/
+  204  gunicorn app:app
+  205  gunicorn app:flaskapp
+  206  gunicorn flaskapp:app
+  207  mysql
+  208  mysql -u root
+  209  mysql -u root -p
+  210  cat flaskapp.
+  211  cat flaskapp.py 
+  212  mysql -u root -p
+  213  ll
+  214  mysql -u root -p < db.sql
+  215  mysql -u root -p lmkarting < db.sql
+  216  gunicorn flaskapp:app
+  217  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  218  gunicorn flaskapp:app
+  219  sudo service nginx restart
+  220  gunicorn flaskapp:app
+  221  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  222  sudo service nginx restart
+  223  gunicorn flaskapp:app
+  224  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  225  gunicorn flaskapp:app
+  226  sudo service nginx restart
+  227  gunicorn flaskapp:app
+  228  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  229  sudo service nginx restart
+  230  gunicorn flaskapp:app
+  231  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  232  sudo service nginx restart
+  233  gunicorn flaskapp:app
+  234  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  235  sudo service nginx restart
+  236  gunicorn flaskapp:app
+  237  sudo service nginx restart
+  238  gunicorn flaskapp:app
+  239  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  240  gunicorn flaskapp:app
+  241  sudo vim  /etc/nginx/sites-enabled/flaskapp 
+  242  sudo service nginx restart
+  243  gunicorn flaskapp:app
+  244  cd LM-karting/NEW\ AMZ/
+  245  sudo service nginx restart
+  246  gunicorn flaskapp:app
+  247  top
+  248  pkill gunicorn
+  249  gunicorn flaskapp:app
+  250  history
+  251  history > history.txt
